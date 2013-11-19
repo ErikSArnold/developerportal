@@ -73,11 +73,11 @@ Searches for specific controlled [state names](/state-list.html)
 ####country
 Searches for specific controlled [country names](/country-list.html)
 
-    http://api.trade.gov/trade_events/search.json?country={term}
+    http://api.trade.gov/trade_events/search.json?countries={term}
 
 #####Example:
 
-    http://api.trade.gov/trade_events/search.json?country=Mexico
+    http://api.trade.gov/trade_events/search.json?countries=Mexico
     
 ##Return Values
 <table border="0">
